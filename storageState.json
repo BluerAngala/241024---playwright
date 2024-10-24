@@ -1,0 +1,149 @@
+{
+  "cookies": [
+    {
+      "name": "ua_id",
+      "value": "B8BOUDUsWb9gJvgiAAAAAFGfhs_3P9EkZr4xvB0peSQ=",
+      "domain": "mp.weixin.qq.com",
+      "path": "/",
+      "expires": 1764304056.709459,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clck",
+      "value": "1dj2asb|1|fqa|0",
+      "domain": ".qq.com",
+      "path": "/",
+      "expires": 1761280044,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wxuin",
+      "value": "29744043797174",
+      "domain": "mp.weixin.qq.com",
+      "path": "/",
+      "expires": 1764304044.258059,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uuid",
+      "value": "d20c52e39e6ad0cc9f9dd1f169086a1b",
+      "domain": "mp.weixin.qq.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rand_info",
+      "value": "CAESIDE3gbTmkChwdHL3z1+sEL4FyJ871YKe7R2IEL7qgtOS",
+      "domain": "mp.weixin.qq.com",
+      "path": "/",
+      "expires": 1730089657,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "slave_bizuin",
+      "value": "3928766723",
+      "domain": "mp.weixin.qq.com",
+      "path": "/",
+      "expires": 1730089657,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "data_bizuin",
+      "value": "3928766723",
+      "domain": "mp.weixin.qq.com",
+      "path": "/",
+      "expires": 1730089657,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bizuin",
+      "value": "3928766723",
+      "domain": "mp.weixin.qq.com",
+      "path": "/",
+      "expires": 1730089657,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "data_ticket",
+      "value": "QekJiXbSXa9TJ++F3ms/Kvn01WwMT7gvQ6jVh6XSI/SaI5buSfvIYpDLegLzBSjK",
+      "domain": "mp.weixin.qq.com",
+      "path": "/",
+      "expires": 1730089657,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "slave_sid",
+      "value": "aFRqdldlcWJXRGQxWGF3QU5FdXVPaGxpeThtb0ZiS09EUGY4dng1WEhFbWNSRUdqVTlrZDc3UDN4Vm4wMDZ6NHVnX2pnS1A4Y2VlSlFoQXBwZWM4bjd5Y3Y3MFRhb3lkNHlDTlgwblM4dHlETGs1NjhIU0NXcVhNOGJUM3Q2emp6TGt4Y3lCNHlOekc0dldV",
+      "domain": "mp.weixin.qq.com",
+      "path": "/",
+      "expires": 1730089657,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "slave_user",
+      "value": "gh_d5106a39d76b",
+      "domain": "mp.weixin.qq.com",
+      "path": "/",
+      "expires": 1730089657,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "xid",
+      "value": "504ecd2b49eeb14d5a44aa9356ee6110",
+      "domain": "mp.weixin.qq.com",
+      "path": "/",
+      "expires": 1764304056.709502,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mm_lang",
+      "value": "zh_CN",
+      "domain": "mp.weixin.qq.com",
+      "path": "/",
+      "expires": 1764304056.709563,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://mp.weixin.qq.com",
+      "localStorage": [
+        {
+          "name": "USER_AGENT_BROWSER_MAJOR_VERSION",
+          "value": "130"
+        },
+        {
+          "name": "loginMode",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}
