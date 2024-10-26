@@ -19,7 +19,7 @@ const express = require('express'); // Web服务器框架
  */
 const CONFIG = {
     port: process.env.PORT || 30221,
-    isProduction: false,
+    isProduction: true,
     logsDir: path.join(__dirname, 'logs'),
     storageStatePath: path.join(__dirname, 'storageState.json'),
     loginTimeout: 120000,
