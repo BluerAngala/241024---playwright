@@ -10,6 +10,27 @@ vscode 开发调试：[入门 - VS Code | Playwright 中文网 (nodejs.cn)](http
 
 自动化录制：[¥Generating tests](https://playwright.nodejs.cn/docs/getting-started-vscode#generating-tests)
 
+
+### 更新日志
+
+### 2024年10月25日20:17:23
+
+- 实现通过api上传图片消息（单图，单标签，保存草稿）
+- 访问地址：http://ip:30221/publish
+- 请求方法：post
+- 请求参数：
+
+```
+{
+    "title": "标题",
+    "description": "🔥 上热下寒体质调理：原因，以及应对方法 🔥\n\n🌡 上热下寒\n\n体质的双重挑战长痘、嗓子干、手脚冰凉、痛经，但又虚不受补，一受凉就拉肚子，一补就上火。这就是典型的上热下寒体质。🌡\n\n🔥 上热症状：",
+    "imagePath": "https://res.wx.qq.com/op_res/Te1vEb6OlxJHSS0UYLUOEpqxdSZ4jJyxdhL8gq5la-vHCmV4pPI1yq5O2l_49MG-EBroYgkCRVkYAg86udeEFw",
+    "tags": [
+        "普法"
+    ]
+}
+```
+
 ## playwright 与 Puppeteer
 
 Playwright和Puppeteer都是用于自动化网页操作的工具，但它们在功能和设计上有一些区别。
@@ -204,8 +225,6 @@ npx playwright test
 * [ ] 知乎
 * [ ] 小红书
 * [ ] 抖音
-
-
 
 ## 致谢
 
