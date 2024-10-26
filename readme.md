@@ -10,8 +10,12 @@ vscode 开发调试：[入门 - VS Code | Playwright 中文网 (nodejs.cn)](http
 
 自动化录制：[¥Generating tests](https://playwright.nodejs.cn/docs/getting-started-vscode#generating-tests)
 
-
 ### 更新日志
+
+### 2024年10月26日14:07:13
+
+- 重构了代码，添加详细注释和jsdoc参数说明
+- 方便拓展其他发布文章的类型
 
 ### 2024年10月25日20:17:23
 
