@@ -539,9 +539,9 @@ const weixinOps = {
             if (articleData.preview_wxname) {
                 await weixinOps.previewArticle(page, articleData.preview_wxname);
             }
-
-            await page.close();
             utils.log('文章发布完成');
+            await page.close();
+            utils.log('页面已关闭');
             return true;
 
         } catch (error) {
